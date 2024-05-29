@@ -1,3 +1,3 @@
 import streamlit as st
 
-st. print(hello)
+st. write. print(hello)
